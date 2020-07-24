@@ -1,0 +1,14 @@
+D:\2º Semestre\Mestrado\Desenvolvimento em Aplicações Movéis\ServidorDAMCore\ServidorDAMCore\bin\Debug\netcoreapp2.1\ServidorDAMCore.deps.json
+D:\2º Semestre\Mestrado\Desenvolvimento em Aplicações Movéis\ServidorDAMCore\ServidorDAMCore\bin\Debug\netcoreapp2.1\ServidorDAMCore.runtimeconfig.json
+D:\2º Semestre\Mestrado\Desenvolvimento em Aplicações Movéis\ServidorDAMCore\ServidorDAMCore\bin\Debug\netcoreapp2.1\ServidorDAMCore.runtimeconfig.dev.json
+D:\2º Semestre\Mestrado\Desenvolvimento em Aplicações Movéis\ServidorDAMCore\ServidorDAMCore\bin\Debug\netcoreapp2.1\ServidorDAMCore.dll
+D:\2º Semestre\Mestrado\Desenvolvimento em Aplicações Movéis\ServidorDAMCore\ServidorDAMCore\obj\Debug\netcoreapp2.1\ServidorDAMCore.csprojAssemblyReference.cache
+D:\2º Semestre\Mestrado\Desenvolvimento em Aplicações Movéis\ServidorDAMCore\ServidorDAMCore\obj\Debug\netcoreapp2.1\ServidorDAMCore.csproj.CoreCompileInputs.cache
+D:\2º Semestre\Mestrado\Desenvolvimento em Aplicações Movéis\ServidorDAMCore\ServidorDAMCore\obj\Debug\netcoreapp2.1\ServidorDAMCore.RazorAssemblyInfo.cache
+D:\2º Semestre\Mestrado\Desenvolvimento em Aplicações Movéis\ServidorDAMCore\ServidorDAMCore\obj\Debug\netcoreapp2.1\ServidorDAMCore.RazorAssemblyInfo.cs
+D:\2º Semestre\Mestrado\Desenvolvimento em Aplicações Movéis\ServidorDAMCore\ServidorDAMCore\obj\Debug\netcoreapp2.1\ServidorDAMCore.AssemblyInfoInputs.cache
+D:\2º Semestre\Mestrado\Desenvolvimento em Aplicações Movéis\ServidorDAMCore\ServidorDAMCore\obj\Debug\netcoreapp2.1\ServidorDAMCore.AssemblyInfo.cs
+D:\2º Semestre\Mestrado\Desenvolvimento em Aplicações Movéis\ServidorDAMCore\ServidorDAMCore\obj\Debug\netcoreapp2.1\ServidorDAMCore.RazorTargetAssemblyInfo.cache
+D:\2º Semestre\Mestrado\Desenvolvimento em Aplicações Movéis\ServidorDAMCore\ServidorDAMCore\bin\Debug\netcoreapp2.1\ServidorDAMCore.pdb
+D:\2º Semestre\Mestrado\Desenvolvimento em Aplicações Movéis\ServidorDAMCore\ServidorDAMCore\obj\Debug\netcoreapp2.1\ServidorDAMCore.dll
+D:\2º Semestre\Mestrado\Desenvolvimento em Aplicações Movéis\ServidorDAMCore\ServidorDAMCore\obj\Debug\netcoreapp2.1\ServidorDAMCore.pdb
